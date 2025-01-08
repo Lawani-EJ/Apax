@@ -55,7 +55,7 @@ Apax is a visually appealing website that provides information about Apex Legend
 ### Legends Section
 ![alt text](image-1.png)
 
-### Pros Section
+### Pro's Section
 ![alt text](image-2.png)
 
 ## Lessons Learned
